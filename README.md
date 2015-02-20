@@ -1,2 +1,2 @@
 # loveplane
-A small library to create parallaxes using LÖVE.
+A small library to help creating parallaxes and pattern repetition using LÖVE.
