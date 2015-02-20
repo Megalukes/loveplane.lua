@@ -28,7 +28,7 @@ If your screen size is different from 800x600, you'll need to adjust it. Do it b
 loveplane:setSize(width,height)
 loveplane:setBitmap(imagemName)
 ```
-You can also move your plane's x and y. This is useful if you want to move the parallax.
+You can also move your loveplane object's x and y. This is useful if you want to move the parallax.
 ```
 x,y = 0,0
 function love.update(dt)
