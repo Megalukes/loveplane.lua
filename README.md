@@ -42,4 +42,4 @@ end
 A license has been included in this project
 
 ## Credits
-Special thanks to Selwyn [http://save-point.org/user-636.html] from those old RPG Maker communities who provided the original formula for this library.
+Special thanks to [Selwyn](http://save-point.org/user-636.html) from those old RPG Maker communities who provided the original formula for this library.
